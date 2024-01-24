@@ -35,7 +35,6 @@ addBtn.addEventListener("click", function () {
   liElement.appendChild(deleteBtn);
   ulElement.appendChild(liElement);
 
-  // 3
-
+  
   inputElement.value = " ";
 });
